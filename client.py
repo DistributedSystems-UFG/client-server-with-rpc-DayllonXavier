@@ -21,7 +21,7 @@ class Client:
   p = conn.root.exposed_search(4)
   print(p)
   print(conn.root.exposed_get(p))
-  print(conn.root.exposed_lenght())
+  print(conn.root.exposed_length())
 
   conn.root.exposed_remove_idx(p)
   print (conn.root.exposed_value())

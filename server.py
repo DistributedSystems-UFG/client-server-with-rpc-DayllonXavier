@@ -42,7 +42,7 @@ class DBList(rpyc.Service):
   def exposed_reverse(self):
     self.value = self.value[::-1]
   
-  def exposed_lenght(self):
+  def exposed_length(self):
     return len(self.value)
 
 if __name__ == "__main__":
