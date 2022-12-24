@@ -8,4 +8,4 @@ O arquivo "server.py" é referente a definição das interfaces e a implementaç
 O arquivo "client.py" é referente ao código que executa as chamadas (RPC) que operam sobre a lista existente no servidor.
 
 # Vídeo da apresentação
--
+O link para a apresentação do projeto está disponível aqui: https://youtu.be/a3BHsPKJdq4
